@@ -1,3 +1,13 @@
 .card-text{
   font-size:20px;
 }
+.container{
+  margin-top:50px;
+  margin-bottom: 50px;
+  
+}
+.name{
+  border:1px solid transparent;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  border-radius: 10px;
+}
