@@ -77,7 +77,11 @@ const SearchWeather = () => {
   return (
     <div>
       <div className="container">
+   
         <div className="row justify-content-center">
+           <div className=" text-center mb-4 ">
+            <h1 className="name">Weather App</h1>
+          </div>
           <div className="col-md-4">
             <div className="card text-white text-center border-0">
               <img
